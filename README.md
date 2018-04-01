@@ -8,7 +8,7 @@ Palestras dos encontros Java MG.
 3. [Existe vida após a graduação?](https://docs.google.com/presentation/d/1ojJwRvXB-VCs_U5QXysBrMaeqT-KxQScH1qG4iTezqI/edit#slide=id.g289445dbef_1_219) - [Rangel Soares](https://www.linkedin.com/in/rangelsoares/)
 
 
-#### 2º Encontro Java MG (01/02/2012)
+#### 2º Encontro Java MG (01/02/2017)
 
 1. [Novidades, tudo sobre o Java 9](http://slides.com/anacoimbrag/java-9#/) - [Ana Coimbra](https://twitter.com/anacoimbrag)
 2. [Metodologia Kanban]() - Marcos Lisboa

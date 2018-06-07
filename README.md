@@ -5,7 +5,7 @@ Palestras dos encontros Java MG.
 #### 3º Encontro Java MG (05/06/2018)
 
 1. Falando de Grails - [Henrique Lobo](https://twitter.com/loboweissmann)
-2. [Como aprendizado máquina pode ser usado de forma maliciosa]() - [Douglas Augusto](https://twitter.com/douglasaugus_to)
+2. [Como aprendizado máquina pode ser usado de forma maliciosa](https://drive.google.com/file/d/1UXg45hyJi1xVeEls7NV_sxFAP0cPBHcx/view) - [Douglas Augusto](https://twitter.com/douglasaugus_to)
 
 #### 2º Encontro Java MG (01/02/2017)
 

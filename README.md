@@ -1,6 +1,8 @@
 # talks
 Palestras dos encontros Java MG.
 
+Quer palestrar no próximo encontro? Preencha o formulário https://goo.gl/forms/gpivNwSgmr3U0tbI2
+
 
 #### 3º Encontro Java MG (05/06/2018)
 

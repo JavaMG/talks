@@ -4,6 +4,10 @@ Palestras dos encontros Java MG.
 Quer palestrar no próximo encontro? Preencha o formulário https://goo.gl/forms/gpivNwSgmr3U0tbI2
 
 
+#### 4º Encontro Java MG (19/07/2018)
+
+1. Produtos inclusivos e UX - [Paulo Henrique Andrade](https://www.linkedin.com/in/linkedjim/)
+
 #### 3º Encontro Java MG (05/06/2018)
 
 1. Falando de Grails - [Henrique Lobo](https://twitter.com/loboweissmann)
